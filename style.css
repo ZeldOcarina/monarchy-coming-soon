@@ -63,7 +63,7 @@ h2 {
     max-width: 70%;
     margin: 10rem auto 0 auto;    
     z-index: 1;
-    display: grid;
+    display: block;
 }
 
 @media only screen and (max-width: 768px) {
